@@ -1,0 +1,13 @@
+{
+    "name": "Simple debug SPFx",
+    "description": "Extensión que nos ayuda a dar debug a una página de nuestro proyecto en SPFx",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_title": "My Bookmarks",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
